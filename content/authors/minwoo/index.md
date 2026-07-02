@@ -14,5 +14,5 @@ highlight_name: true
 user_groups:
 - Ph.D. Students
 
-external_link: https://qqor.xyz
+external_link: https://qqor.github.io
 ---
