@@ -58,4 +58,7 @@ abstract: >-
   retrieval.
 publication: '*Proceedings of the 2026 International Symposium on Research in Attacks,
   Intrusions and Defenses (RAID)*'
+author_notes:
+- Equal contribution
+- Equal contribution
 ---
